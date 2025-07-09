@@ -8,7 +8,6 @@ This is a creative front-end project showcasing scroll-based animations using **
 
 - [Vite.js](https://vitejs.dev/) – Fast front-end build tool
 - [GSAP](https://gsap.com/) – GreenSock Animation Platform for powerful animations
-- [Lenis (optional)](https://github.com/studio-freight/lenis) – Smooth scroll library (if used)
 
 ## 📁 Project Structure
 
